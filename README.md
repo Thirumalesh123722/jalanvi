@@ -1,4 +1,4 @@
-# 🌊 MARINE AI — Autonomous Marine Mission Intelligence Platform
+# 🌊 JALANVI AI — Autonomous Marine Mission Intelligence Platform
 
 > **"Don't just ask the ocean a question. Give the ocean a mission."**
 
