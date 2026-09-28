@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+!.env.example
+!example.env
+**/.env
+**/.env.*
+!**/.env.example
+!**/example.env
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+**/dist/
+backend/marine_ai.db*
+tmp-profile/
